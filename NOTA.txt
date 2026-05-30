@@ -1,0 +1,9 @@
+ejecutar desde terminal
+________________________
+
+nota de arranque
+	- npm run dev
+_______________________________
+
+opción de arranque
+	- npm install
